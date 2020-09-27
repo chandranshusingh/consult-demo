@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310119643381",
+    "firebase_url": "https://consult-demo.firebaseio.com",
+    "project_id": "consult-demo",
+    "storage_bucket": "consult-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310119643381:android:653e15ef1e6c50b3c32dbc",
+        "android_client_info": {
+          "package_name": "com.chandranshu.consultdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310119643381-ai2f8sevk7esoij24edrtmq4naelv374.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDa6cL9vK2HN_vjJYTHEx3YuUM9NsEAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310119643381-ai2f8sevk7esoij24edrtmq4naelv374.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
